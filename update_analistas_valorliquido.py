@@ -13,7 +13,7 @@ root.withdraw()
 logging.basicConfig(filename='filelog.log', filemode="w",level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 
 
-HOST = "216.172.173.7"
+HOST = "IP NUMBER"
 
 DATABASE_SISTEMA_INTERNO = "NAME OF THE DATABASE WHERE THE INFORMATION IS EXTRACTED "
 USER_SISTEMA_INTERNO = "USER OF THE DATABASE WHERE THE INFORMATION IS EXTRACTED"
